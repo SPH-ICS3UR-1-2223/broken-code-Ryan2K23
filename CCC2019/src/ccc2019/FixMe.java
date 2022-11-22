@@ -59,7 +59,7 @@ output += currentCount + " " + currentChar + " ";
 
 // Print newline
 }
-output += "\n";
+output += "\n"; 
 // Print the result
 }
 System.out.print(output);
